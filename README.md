@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hi, I'm Víctor Hugo García Hernández
+  Hey there!, I'm Víctor Hugo 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username"><img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username"></a>
+  <a href="https://github.com/your-username"><img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=your-username.victorhugogarccia"></a>
 </p>
 
 ---
@@ -31,7 +31,6 @@
 
 ### 🧠 Tools & Frameworks
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Geant4](https://img.shields.io/badge/Geant4-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,...)
 
@@ -45,6 +44,6 @@
 ---
 
 📫 **Let’s Connect**  
-[LinkedIn](www.linkedin.com/in/victor-hugo-garcia-hernandez) • [Portfolio](https://your-website.com) • [Email](mailto:your.email@example.com)
+[LinkedIn](www.linkedin.com/in/victor-hugo-garcia-hernandez) • [Portfolio](https://github.com/victorhugogarccia) • [Email](mailto:victorhuggh@gmail.com)
 
 ---
