@@ -41,7 +41,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-%2300CED1.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ---
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoachhoubi&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugogarccia&layout=compact&theme=dark&bg_color=0A0A0A" alt="Victor Hugo Top Languages"/>
 ---
 ### 🔗 &nbsp;Contact Me
 
