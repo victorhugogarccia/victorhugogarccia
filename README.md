@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Hey there!, I'm Víctor Hugo 
+  Hi! I'm Víctor, and this is where I share my projects and ideas.  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
