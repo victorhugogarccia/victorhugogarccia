@@ -42,7 +42,7 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugogarccia&layout=compact&theme=dark&bg_color=0A0A0A" alt="Victor Hugo Top Languages"/>
---- 
+
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
@@ -54,4 +54,3 @@
 📫 **Let’s Connect**  
 [LinkedIn](www.linkedin.com/in/victor-hugo-garcia-hernandez) • [Portfolio](https://github.com/victorhugogarccia) • [Email](mailto:victorhuggh@gmail.com)
 
----
